@@ -1,0 +1,25 @@
+{
+  "name": "starter-3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vite",
+    "build": "vite build"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViElChompo/lightness.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViElChompo/lightness/issues"
+  },
+  "homepage": "https://github.com/ViElChompo/lightness#readme",
+  "description": "",
+  "devDependencies": {
+    "vite": "^6.0.11"
+  }
+}
